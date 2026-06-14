@@ -1,0 +1,25 @@
+{
+  "name": "旅遊記帳本 • TripLedger",
+  "short_name": "TripLedger",
+  "description": "旅遊開支記帳本 - 照片自動識別金額與店舖，多人分層管理",
+  "start_url": "./旅遊記帳本_TripLedger.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='40' fill='%230ea5e9'/%3E%3Cpath d='M48 56 L96 40 L144 56 L144 120 Q96 140 48 120 Z' fill='white'/%3E%3Ccircle cx='96' cy='88' r='18' fill='%230ea5e9'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='100' fill='%230ea5e9'/%3E%3Cpath d='M128 150 L256 100 L384 150 L384 320 Q256 370 128 320 Z' fill='white'/%3E%3Ccircle cx='256' cy='235' r='50' fill='%230ea5e9'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["travel", "finance", "productivity"],
+  "lang": "zh-HK",
+  "scope": "./"
+}
